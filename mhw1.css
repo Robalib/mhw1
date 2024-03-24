@@ -148,7 +148,7 @@ a.vipButton:hover {
 
 #immaginePrincipale{
   display: block;
-  width: 100vw;
+  width: 100%;
   height: 100vh;
   background-image: url(LAUNDRY_SIGN.webp);
   background-size: cover;
